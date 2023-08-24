@@ -3,6 +3,11 @@
 In this data analytics project, we have used a comprehensive dataset of housing properties. The aim is to uncover valuable insights about housing properties, their transactions, and related attributes. 
 Our objective is to perform a thorough analysis of the data using SQL to gain insights and prepare the dataset for further analysis. This analysis will provide a foundation for more advanced data exploration and modeling in the field of housing market trends and property evaluation.The dataset includes attributes such as the owner's address, property address, owner's name, sale date, sale price, total rooms, and more. 
 
+
+</br>
+
+
+
 ## Data Cleaning Process
 
 1. Converting the SaleDate into Standard Date Format: SQL's date manipulation functions are used. This step ensures consistency in date representation for accurate analysis.
@@ -17,6 +22,8 @@ Our objective is to perform a thorough analysis of the data using SQL to gain in
 
 7. Deleting Unused Columns: We will identify and delete columns that are not contributing to the analysis. This action simplifies the dataset structure while improving query performance.
 
-##Data Sources
+</br>
+
+## Data Sources
 
  The original dataset is stored in an Excel file called NashvilleHousingData.xlsx. This file is located in the root directory of the repository.
