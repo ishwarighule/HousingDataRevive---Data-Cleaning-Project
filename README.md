@@ -1,5 +1,9 @@
 # HousingDataRevive - Housing Data Cleaning Project
 
+![housing1](https://github.com/ishwarighule/HousingDataRevive---Data-Cleaning-Project/assets/87072876/99b369a7-2e38-4356-b834-bd57e457886b)
+
+
+
 In this data analytics project, we have used a comprehensive dataset of housing properties. The aim is to uncover valuable insights about housing properties, their transactions, and related attributes. 
 Our objective is to perform a thorough analysis of the data using SQL to gain insights and prepare the dataset for further analysis. This analysis will provide a foundation for more advanced data exploration and modeling in the field of housing market trends and property evaluation.The dataset includes attributes such as the owner's address, property address, owner's name, sale date, sale price, total rooms, and more. 
 
